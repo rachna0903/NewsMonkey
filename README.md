@@ -1,3 +1,11 @@
+- NewsMonkey is a web application that provides users with the latest news from around world. 
+- The app utilizes the News API to gather news articles. The key features of NewsMonkey include advanced filtering option and having infinite scrolling functionality .
+  ![Screenshot (17)](https://github.com/rachna0903/NewsMonkey/assets/128318608/df9fb048-66ec-4ecb-803c-cc28ee4b4b3d)
+![Screenshot (16)](https://github.com/rachna0903/NewsMonkey/assets/128318608/b49e848a-6b63-4a0d-b134-5c094e385f93)
+![Screenshot (15)](https://github.com/rachna0903/NewsMonkey/assets/128318608/56780c30-bc96-4c70-9d5a-66f117811898)
+![Screenshot (14)](https://github.com/rachna0903/NewsMonkey/assets/128318608/40b1f2c7-a3cf-4df0-b3c0-d862a0380bcb)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
